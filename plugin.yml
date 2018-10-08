@@ -1,0 +1,22 @@
+name: Spleef
+main: DragonPlayzMC\Spleef\Spleef
+author: ibimslol 
+version: 1.0.0
+api: [3.0.0]
+
+commands:
+    sp:
+        usage: /sp <leave-sp>
+        description: Spleef-Commands
+    splang:
+        usage: /lang <en>
+        description: Spleef-English-Lang
+    ranksp:
+        usage: /rank
+        description: SpleefRank-Commands
+    spstart:
+        usage: /spstart
+        description: Spleef-Force start
+    spmoney:
+        usage: /spmoney
+        description: Set-Money-Win
